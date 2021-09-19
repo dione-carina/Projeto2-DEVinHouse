@@ -13,8 +13,6 @@ Abra [http://localhost:3000](http://localhost:3000) para visualzar no navegador
 
 O usuário de acesso é: 'zap@zap.com.br' e a senha é 'senha'
 
-Qualquer dúvida enviar e-mail para dione.carina at gmail dot com 
-
 A MensagemFormDialog.jsx foi feita para criar uma nova mensagem usando formik. Não é utilizada na solução.
 
 No mirage foi usado o seed em vez do array: https://miragejs.com/tutorial/part-4/
